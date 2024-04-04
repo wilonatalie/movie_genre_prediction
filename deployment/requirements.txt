@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+Pillow
+plotly
+scikit-learn
+seaborn
+wordcloud
+tensorflow==2.15.0
+regex
+nltk==3.8.1
